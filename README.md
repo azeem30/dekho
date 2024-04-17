@@ -13,7 +13,7 @@ This is a simple movie recommender system built using Streamlit, a Python librar
 1. Clone the repository
 
 ```bash
-git clone https://github.com/azeem30/dekho
+git clone https://github.com/azeem30/dekho.git
 ```
 2. Run the notebook
 
